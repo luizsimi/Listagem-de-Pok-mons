@@ -1,2 +1,2 @@
-# Listagem-de-Pok-mons
+# Listagem-de-Pokemons
 Projeto do evento do @DevEmDobro
