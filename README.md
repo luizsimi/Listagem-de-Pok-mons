@@ -13,10 +13,10 @@ FreelanceHours é um pojeto desenvolvido em Html, css e javascript, onde criamos
 
 <br>
 
-<p align="center">
+
   ![image](https://github.com/user-attachments/assets/6ee25dad-d06e-424f-9964-e48c51a220f7)
 
-</p>
+
 
 ## Tecnologias utilizadas
 
