@@ -1,4 +1,5 @@
-<p align="center"><img src=".github/logo.png" width="200" alt="ListagemPokémon Logo"></a></p>
+[charmander](https://github.com/user-attachments/assets/19be835f-a221-4f1f-8b85-7b783cccc57a)
+
 
 <p align="center">
   <img alt="HTML5 version" src="https://img.shields.io/static/v1?label=html5&message=5&color=E34F26&labelColor=18181B">
@@ -15,6 +16,9 @@ FreelanceHours é um pojeto desenvolvido em Html, css e javascript, onde criamos
 
 
   ![image](https://github.com/user-attachments/assets/6ee25dad-d06e-424f-9964-e48c51a220f7)
+
+  ![image](https://github.com/user-attachments/assets/b8c62a2c-2667-4b21-9d0e-2613bfcdd4c8)
+
 
 
 
