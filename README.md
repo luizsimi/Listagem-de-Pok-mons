@@ -1,4 +1,4 @@
-[charmander](https://github.com/user-attachments/assets/19be835f-a221-4f1f-8b85-7b783cccc57a)
+
 
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## Projeto ListagemPokémon
 
-FreelanceHours é um pojeto desenvolvido em Html, css e javascript, onde criamos uma pagina onde você pode ver os pokémons listados.
+Listagem Pokémon é um pojeto desenvolvido em Html, css e javascript, onde criamos uma pagina onde você pode ver os pokémons listados.
 
 <br>
 
